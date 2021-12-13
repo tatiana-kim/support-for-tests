@@ -1,2 +1,2 @@
-# support-for-tests
-Examples of how to generate data for tests  
+## Data preparation for tests
+Examples of how to generate data for tests + some API requests
