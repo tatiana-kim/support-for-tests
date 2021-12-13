@@ -7,6 +7,9 @@ f = Faker()
 
 
 class Article:
+    """ create a json-file with N randomly generated articles
+        and write result in Excel-file
+    """
 
     def __init__(self, id_num):
         self.id_num = id_num

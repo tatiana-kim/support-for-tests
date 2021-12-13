@@ -7,7 +7,7 @@ fake = Faker()
 
 
 class Article:
-    """ create a json-file with randomly generated N-articles """
+    """ create a json-file with N randomly generated articles """
 
     def __init__(self, id_num):
         self.id_num = id_num
